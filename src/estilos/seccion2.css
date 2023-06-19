@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+
+.seccioncontacto{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contenedorredes{
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;  
+    text-align: center;
+}
+.texto{
+    padding-right:50px;
+}
+
+.introduccion{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 250%;
+    font-family: 'Comfortaa', cursive;
+}
+.ncontacto{
+    padding-top: 10%;
+    font-size: 30px;
+}
+
+.logoinsta{
+    height: 65% ;
+    width: 65%;
+    transition-duration: 1s;
+}
+.logofacebook{
+    height: 65% ;
+    width: 65%;
+    transition-duration: 1s;
+}
+.logowhatsapp{
+    height: 65% ;
+    width: 65%;
+    transition-duration: 1s;
+}
+.logoinsta:hover{
+    cursor: pointer;
+    filter: grayscale(70%);
+    transition-duration: 1s;
+}
+.logofacebook:hover{
+    cursor: pointer;
+    filter: grayscale(80%);
+    transition-duration: 1s;
+}
+.logowhatsapp:hover{
+    cursor: pointer;
+    filter: grayscale(80%);
+    transition-duration: 1s;
+}
+.numero{
+    color: rgb(29, 175, 243);
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 800px) {
+    .introduccion{
+        padding-top: 5%;
+        padding-bottom: 5%;
+        font-size: 150%;
+        font-family: 'Comfortaa', cursive;
+        padding-left: 4%;
+    }
+    .seccioncontacto{
+        padding: 0px;
+        margin: 0px;
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+    .contenedorSeccioncontacto{
+        padding: 0px;
+        margin: 0px;
+        display: block;
+        align-items: center;
+        justify-content: center;
+    }
+    .numero{
+        font-size: 100%;
+        padding: 10%;
+        text-decoration: underline;
+    }
+    
+}

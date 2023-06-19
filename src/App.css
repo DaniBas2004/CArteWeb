@@ -1,0 +1,91 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+html,body{
+  padding: auto;
+  height: auto;
+}
+body{
+  background-color:#B7C1D1;
+}
+ul{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;  
+  text-align: center;
+}
+a{
+  margin: 0;
+  padding: 0;
+  inline-size: 25vh;
+  font-size: 4vh;
+  color: black;
+  font-family: 'Righteous', cursive;
+  text-decoration: none;
+}
+
+.Inicio:hover{
+  color: #0687CE;
+  background-color: black; 
+  cursor:pointer;
+  transition-duration: 1s;
+}
+.Contacto:hover{
+  color: #0687CE;
+  background-color: black;
+  cursor:pointer;
+  transition-duration: 1s;
+}
+.Productos:hover{
+  color: #0687CE;
+  background-color: black;
+  cursor:pointer;
+  transition-duration: 1s;
+}
+
+.videofondo{
+  position: fixed;
+  left: 0;
+  top: 0;
+  height:118%;
+  z-index: -1;
+}
+
+.Carte{
+  height: 40%;
+  width: 30%;
+  padding-top: 10px;
+  animation-duration: 1s;
+  transition: all 0.2s ease-in-out;
+}
+.Carte:hover{
+  cursor: pointer;
+  animation-duration: 1s;
+  transform: scale(1.1);
+}
+@media screen and (max-width: 800px) {
+  a{
+    margin: 0;
+    padding: 0;
+    inline-size: 25vh;
+    font-size: 3vh;
+    color: black;
+    font-family: 'Righteous', cursive;
+  }
+  .Carte{
+    height: 40%;
+    width: 50%;
+    padding-top: 10px;
+    animation-duration: 1s;
+    transition: all 0.2s ease-in-out;
+  }
+  .Carte:hover{
+    padding-top: 10px;
+    animation-duration: 1s;
+    transform: scale(1.1);
+  }
+}
+
