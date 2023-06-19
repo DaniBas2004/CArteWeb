@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efb52d97.css",
+    "main.js": "/static/js/main.01cd1a22.js",
+    "static/media/Background.mp4": "/static/media/Background.752639e76c11fb3165fa.mp4",
+    "static/media/favicon.png": "/static/media/favicon.f221ca4d8767b11d47b4.png",
+    "static/media/familiaestampadomario.png": "/static/media/familiaestampadomario.8db6afa076d8e6974d3e.png",
+    "static/media/logoinstagram.png": "/static/media/logoinstagram.a2bc2ca4ea38c50eb4ed.png",
+    "static/media/Logo CArte.png": "/static/media/Logo CArte.c035b4d07069a6bc1322.png",
+    "static/media/iconowhatsapp (2).png": "/static/media/iconowhatsapp (2).b019dbd4b03c0421eda1.png",
+    "static/media/My project-1 (2).png": "/static/media/My project-1 (2).0967c996ee458cb8eac7.png",
+    "index.html": "/index.html",
+    "main.efb52d97.css.map": "/static/css/main.efb52d97.css.map",
+    "main.01cd1a22.js.map": "/static/js/main.01cd1a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb52d97.css",
+    "static/js/main.01cd1a22.js"
+  ]
+}
