@@ -30,7 +30,7 @@ function Secciones2(){
 
     </div>
     <center className="ncontacto">
-                Tambien nos pueden contactar directamente a nuestro numero telefonico:   <a  className="numero" href="tel:3228962152"> 3228962152</a>
+                Tambien nos pueden contactar directamente a nuestro numero telefonico:   <a  className="numero" href="tel:3228962150"> 3228962150</a>
             </center>
   
         
