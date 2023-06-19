@@ -13,7 +13,7 @@ function Secciones2(){
             </p>
     <div className="contenedorredes">
 
-        <a contenedorlogo1>
+        <a contenedorlogo1 href="https://www.instagram.com/carte_sa/">
             <img className="logoinsta" 
         src={require("../Multimedia/logoinstagram.png")}/>
         </a>
