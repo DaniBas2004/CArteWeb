@@ -23,7 +23,7 @@ function Secciones2(){
         src={require("../Multimedia/My project-1 (2).png")}/>
         </a>
 
-        <a contenedorlogo3 href="https://wa.me/573228962152?">
+        <a contenedorlogo3 href="https://wa.me/573228962150?">
             <img className="logowhatsapp" 
         src={require("../Multimedia/iconowhatsapp (2).png")}/>
         </a>
